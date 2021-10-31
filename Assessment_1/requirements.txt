@@ -5,3 +5,5 @@ torchaudio
 tqdm
 
 matplotlib
+
+torchinfo
